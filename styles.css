@@ -2,13 +2,14 @@ body{
     color:violet;
     background:blueviolet;
     margin: 0px;
+    font-family: "Asap Condensed", sans-serif;
 }
 
 header {
-    border-bottom: solid 2px rgb(238, 130, 238);
+    border-bottom: solid 2px rgb(240, 127, 240);
     padding: 20px;
     font-size: 32px;
-    color: rgb(238, 130, 238);
+    color: rgb(231, 70, 169);
 }
 
 section{
