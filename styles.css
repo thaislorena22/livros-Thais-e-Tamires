@@ -1,8 +1,9 @@
 body{
     color:violet;
     background:blueviolet;
+    margin: 0px;
 }
 
 header {
-    border: solid 2px violet;
+    border-bottom: solid 2px rgb(238, 130, 238);
 }
