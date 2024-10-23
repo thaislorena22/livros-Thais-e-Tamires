@@ -6,4 +6,20 @@ body{
 
 header {
     border-bottom: solid 2px rgb(238, 130, 238);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(238, 130, 238);
 }
+
+section{
+    background: rgb(159, 130, 238);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+ 
+.chamada-texto{
+    margin-right: 5%;
+}
+
