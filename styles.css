@@ -1,12 +1,12 @@
 body{
     color:rgb(8, 6, 8);
-    background:blueviolet;
+    background:rgb(59, 9, 106);
     margin: 0px;
     font-family: "Asap Condensed", sans-serif;
 }
 
 header {
-    border-bottom: solid 2px rgb(240, 127, 240);
+    border-bottom: solid 2px rgb(255, 182, 202);
     padding: 20px;
     font-size: 32px;
     color: rgb(251, 96, 153);
